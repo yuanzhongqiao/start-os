@@ -1,84 +1,79 @@
-<div align="center">
-  <img src="web/projects/shared/assets/img/icon.png" alt="StartOS Logo" width="16%" />
-  <h1 style="margin-top: 0;">StartOS</h1>
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/Start9Labs/start-os/blob/master/web/projects/shared/assets/img/icon.png"><img src="https://github.com/Start9Labs/start-os/raw/master/web/projects/shared/assets/img/icon.png" alt="开始操作系统标志" width="16%" style="max-width: 100%;"></a>
+  <div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">启动操作系统</font></font></h1><a id="user-content-startos" class="anchor" aria-label="永久链接：StartOS" href="#startos"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
   <a href="https://github.com/Start9Labs/start-os/releases">
-    <img alt="GitHub release (with filter)" src="https://img.shields.io/github/v/release/start9labs/start-os?logo=github">
+    <img alt="GitHub 发布（带过滤器）" src="https://camo.githubusercontent.com/26842f0086642add27ed8a654b3baa0b1e2e82a3dc84449d4cf62af8f78f027f/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f762f72656c656173652f7374617274396c6162732f73746172742d6f733f6c6f676f3d676974687562" data-canonical-src="https://img.shields.io/github/v/release/start9labs/start-os?logo=github" style="max-width: 100%;">
   </a>
   <a href="https://github.com/Start9Labs/start-os/actions/workflows/startos-iso.yaml">
-    <img src="https://github.com/Start9Labs/start-os/actions/workflows/startos-iso.yaml/badge.svg">
+    <img src="https://github.com/Start9Labs/start-os/actions/workflows/startos-iso.yaml/badge.svg" style="max-width: 100%;">
   </a>
-    <a href="https://heyapollo.com/product/startos">
-    <img alt="Static Badge" src="https://img.shields.io/badge/apollo-review%20%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%20-slateblue">
+    <a href="https://heyapollo.com/product/startos" rel="nofollow">
+    <img alt="静态徽章" src="https://camo.githubusercontent.com/f10bca240512b9eeaf18fb8d31b0be63141dc0d1c832f92db36e6cb937efb594/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f61706f6c6c6f2d7265766965772532302545322541442539302545322541442539302545322541442539302545322541442539302545322541442539302532302d736c617465626c7565" data-canonical-src="https://img.shields.io/badge/apollo-review%20%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%20-slateblue" style="max-width: 100%;">
   </a>
-  <a href="https://twitter.com/start9labs">
-    <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/start9labs">
+  <a href="https://twitter.com/start9labs" rel="nofollow">
+    <img alt="X（以前的 Twitter）关注" src="https://camo.githubusercontent.com/64b93ab1aaa950e82e15c85a44b159e00454d70c72a9adf613816e68484632e5/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f7374617274396c616273" data-canonical-src="https://img.shields.io/twitter/follow/start9labs" style="max-width: 100%;">
   </a>
-  <a href="https://mastodon.start9labs.com">
-    <img src="https://img.shields.io/mastodon/follow/000000001?domain=https%3A%2F%2Fmastodon.start9labs.com&label=Follow&style=social">
+  <a href="https://mastodon.start9labs.com" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/3bddc56413d657233449714755be512749b358c14d9b3dd9448ff5ad86a5bcb7/68747470733a2f2f696d672e736869656c64732e696f2f6d6173746f646f6e2f666f6c6c6f772f3030303030303030313f646f6d61696e3d68747470732533412532462532466d6173746f646f6e2e7374617274396c6162732e636f6d266c6162656c3d466f6c6c6f77267374796c653d736f6369616c" data-canonical-src="https://img.shields.io/mastodon/follow/000000001?domain=https%3A%2F%2Fmastodon.start9labs.com&amp;label=Follow&amp;style=social" style="max-width: 100%;">
   </a>
-  <a href="https://matrix.to/#/#community:matrix.start9labs.com">
-    <img alt="Static Badge" src="https://img.shields.io/badge/community-matrix-yellow?logo=matrix">
+  <a href="https://matrix.to/#/#community:matrix.start9labs.com" rel="nofollow">
+    <img alt="静态徽章" src="https://camo.githubusercontent.com/b084b4306792a7ff67d69ba16f1d57c10ab19ab0d9ea38b7788c4a7bfb6d7d00/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f6d6d756e6974792d6d61747269782d79656c6c6f773f6c6f676f3d6d6174726978" data-canonical-src="https://img.shields.io/badge/community-matrix-yellow?logo=matrix" style="max-width: 100%;">
   </a>
-  <a href="https://t.me/start9_labs">
-    <img alt="Static Badge" src="https://img.shields.io/badge/community-telegram-blue?logo=telegram">
+  <a href="https://t.me/start9_labs" rel="nofollow">
+    <img alt="静态徽章" src="https://camo.githubusercontent.com/52b9eb8994c60082b72e49aed7b89bfa1fbfc3bee3ae314a9d24011ed68fda57/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f6d6d756e6974792d74656c656772616d2d626c75653f6c6f676f3d74656c656772616d" data-canonical-src="https://img.shields.io/badge/community-telegram-blue?logo=telegram" style="max-width: 100%;">
   </a>
-  <a href="https://docs.start9.com">
-    <img alt="Static Badge" src="https://img.shields.io/badge/docs-orange?label=%F0%9F%91%A4%20support">
+  <a href="https://docs.start9.com" rel="nofollow">
+    <img alt="静态徽章" src="https://camo.githubusercontent.com/c745df8c7a89d236189683124cca374dc8e99c57c0eb522017b6079fea4fffa1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f63732d6f72616e67653f6c6162656c3d254630253946253931254134253230737570706f7274" data-canonical-src="https://img.shields.io/badge/docs-orange?label=%F0%9F%91%A4%20support" style="max-width: 100%;">
   </a>
-  <a href="https://matrix.to/#/#community-dev:matrix.start9labs.com">
-    <img alt="Static Badge" src="https://img.shields.io/badge/developer-matrix-darkcyan?logo=matrix">
+  <a href="https://matrix.to/#/#community-dev:matrix.start9labs.com" rel="nofollow">
+    <img alt="静态徽章" src="https://camo.githubusercontent.com/0559f5fe7e9792e5eb74fccda93288c50987d72c056086b84ca22d43c91e2d0e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646576656c6f7065722d6d61747269782d6461726b6379616e3f6c6f676f3d6d6174726978" data-canonical-src="https://img.shields.io/badge/developer-matrix-darkcyan?logo=matrix" style="max-width: 100%;">
   </a>
-  <a href="https://start9.com">
-    <img alt="Website" src="https://img.shields.io/website?up_message=online&down_message=offline&url=https%3A%2F%2Fstart9.com&logo=website&label=%F0%9F%8C%90%20website">
+  <a href="https://start9.com" rel="nofollow">
+    <img alt="网站" src="https://camo.githubusercontent.com/70534348eb9da058c6342c0ac4ff18cb39cccad09bc28a3697e4e3c49ffeaab2/68747470733a2f2f696d672e736869656c64732e696f2f776562736974653f75705f6d6573736167653d6f6e6c696e6526646f776e5f6d6573736167653d6f66666c696e652675726c3d68747470732533412532462532467374617274392e636f6d266c6f676f3d77656273697465266c6162656c3d25463025394625384325393025323077656273697465" data-canonical-src="https://img.shields.io/website?up_message=online&amp;down_message=offline&amp;url=https%3A%2F%2Fstart9.com&amp;logo=website&amp;label=%F0%9F%8C%90%20website" style="max-width: 100%;">
   </a>
 </div>
-<br />
-<div align="center">
-  <h3>
-    Welcome to the era of Sovereign Computing
-  </h3>
-  <p>
-    StartOS is an open source Linux distribution optimized for running a personal server. It facilitates the discovery, installation, network configuration, service configuration, data backup, dependency management, and health monitoring of self-hosted software services.
-  </p>
+<br>
+<div align="center" dir="auto">
+  <div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+    欢迎来到主权计算时代
+  </font></font></h3><a id="user-content-----welcome-to-the-era-of-sovereign-computing--" class="anchor" aria-label="永久链接：欢迎来到主权计算时代
+  " href="#----welcome-to-the-era-of-sovereign-computing--"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+  <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+    StartOS 是一个开源 Linux 发行版，针对运行个人服务器进行了优化。它有助于自托管软件服务的发现、安装、网络配置、服务配置、数据备份、依赖管理和健康监控。
+  </font></font></p>
 </div>
-<br />
-<p align="center">
-<img src="assets/StartOS.png" alt="StartOS" width="85%">
+<br>
+<p align="center" dir="auto">
+<a target="_blank" rel="noopener noreferrer" href="/Start9Labs/start-os/blob/master/assets/StartOS.png"><img src="/Start9Labs/start-os/raw/master/assets/StartOS.png" alt="启动操作系统" width="85%" style="max-width: 100%;"></a>
 </p>
-<br />
-
-## Running StartOS
-There are multiple ways to get started with StartOS:
-
-### 💰 Buy a Start9 server
-This is the most convenient option. Simply [buy a server](https://store.start9.com) from Start9 and plug it in.
-
-### 👷 Build your own server
-This option is easier than you might imagine, and there are 4 reasons why you might prefer it:
-1. You already have hardware
-1. You want to save on shipping costs
-1. You prefer not to divulge your physical address
-1. You just like building things
-
-To pursue this option, follow one of our [DIY guides](https://start9.com/latest/diy).
-
-## ❤️ Contributing
-There are multiple ways to contribute: work directly on StartOS, package a service for the marketplace, or help with documentation and guides. To learn more about contributing, see [here](https://start9.com/contribute/).
-
-To report security issues, please email our security team - security@start9.com.
-
-## 🌎 Marketplace
-There are dozens of services available for StartOS, and new ones are being added all the time. Check out the full list of available services [here](https://marketplace.start9.com/marketplace). To read more about the Marketplace ecosystem, check out this [blog post](https://blog.start9.com/start9-marketplace-strategy/)
-
-## 🖥️ User Interface Screenshots
-
-<p align="center">
-<img src="assets/registry.png" alt="StartOS Marketplace" width="49%">
-<img src="assets/community.png" alt="StartOS Community Registry" width="49%">
-<img src="assets/c-lightning.png" alt="StartOS NextCloud Service" width="49%">
-<img src="assets/btcpay.png" alt="StartOS BTCPay Service" width="49%">
-<img src="assets/nextcloud.png" alt="StartOS System Settings" width="49%">
-<img src="assets/system.png" alt="StartOS System Settings" width="49%">
-<img src="assets/welcome.png" alt="StartOS System Settings" width="49%">
-<img src="assets/logs.png" alt="StartOS System Settings" width="49%">
+<br>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">运行StartOS</font></font></h2><a id="user-content-running-startos" class="anchor" aria-label="永久链接：运行 StartOS" href="#running-startos"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有多种方法可以开始使用 StartOS：</font></font></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💰 购买 Start9 服务器</font></font></h3><a id="user-content--buy-a-start9-server" class="anchor" aria-label="永久链接：💰 购买 Start9 服务器" href="#-buy-a-start9-server"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这是最方便的选择。只需从 Start9</font></font><a href="https://store.start9.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">购买服务器</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">并将其插入即可。</font></font></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👷 搭建自己的服务器</font></font></h3><a id="user-content--build-your-own-server" class="anchor" aria-label="永久链接：👷 构建自己的服务器" href="#-build-your-own-server"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">此选项比您想象的更容易，您可能会选择它的原因有 4 个：</font></font></p>
+<ol dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">你已经有硬件了</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您想节省运费</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您不想透露您的实际地址</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">你只是喜欢建造东西</font></font></li>
+</ol>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://start9.com/latest/diy" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要选择此选项，请遵循我们的DIY 指南</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">之一</font><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">❤️ 贡献</font></font></h2><a id="user-content-️-contributing" class="anchor" aria-label="永久链接：❤️ 贡献" href="#️-contributing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有多种方式可以做出贡献：直接在 StartOS 上工作、为市场打包服务或帮助提供文档和指南。要了解有关贡献的更多信息，请参阅</font></font><a href="https://start9.com/contribute/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">此处</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要报告安全问题，请发送电子邮件给我们的安全团队 - </font></font><a href="mailto:security@start9.com"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">security@start9.com</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🌎 市场</font></font></h2><a id="user-content--marketplace" class="anchor" aria-label="永久链接：🌎 市场" href="#-marketplace"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">StartOS 有数十种可用服务，并且一直在添加新服务。请</font></font><a href="https://marketplace.start9.com/marketplace" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在此处</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">查看可用服务的完整列表</font><font style="vertical-align: inherit;">。要了解有关 Marketplace 生态系统的更多信息，请查看此</font></font><a href="https://blog.start9.com/start9-marketplace-strategy/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">博客文章</font></font></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🖥️ 用户界面截图</font></font></h2><a id="user-content-️-user-interface-screenshots" class="anchor" aria-label="永久链接：🖥️ 用户界面截图" href="#️-user-interface-screenshots"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p align="center" dir="auto">
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Start9Labs/start-os/blob/master/assets/registry.png"><img src="https://github.com/Start9Labs/start-os/raw/master/assets/registry.png" alt="StartOS 市场" width="49%" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Start9Labs/start-os/blob/master/assets/community.png"><img src="https://github.com/Start9Labs/start-os/raw/master/assets/community.png" alt="StartOS 社区注册表" width="49%" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Start9Labs/start-os/blob/master/assets/c-lightning.png"><img src="https://github.com/Start9Labs/start-os/raw/master/assets/c-lightning.png" alt="StartOS Next云服务" width="49%" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Start9Labs/start-os/blob/master/assets/btcpay.png"><img src="https://github.com/Start9Labs/start-os/raw/master/assets/btcpay.png" alt="StartOS BTCPay服务" width="49%" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Start9Labs/start-os/blob/master/assets/nextcloud.png"><img src="https://github.com/Start9Labs/start-os/raw/master/assets/nextcloud.png" alt="StartOS系统设置" width="49%" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Start9Labs/start-os/blob/master/assets/system.png"><img src="https://github.com/Start9Labs/start-os/raw/master/assets/system.png" alt="StartOS系统设置" width="49%" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Start9Labs/start-os/blob/master/assets/welcome.png"><img src="https://github.com/Start9Labs/start-os/raw/master/assets/welcome.png" alt="StartOS系统设置" width="49%" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Start9Labs/start-os/blob/master/assets/logs.png"><img src="https://github.com/Start9Labs/start-os/raw/master/assets/logs.png" alt="StartOS系统设置" width="49%" style="max-width: 100%;"></a>
 </p>
+</article></div>
